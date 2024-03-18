@@ -1,0 +1,1 @@
+This spike demonstrates how to get a React frontend to record audio and send it to an Express server, which in turn sends the audio on to Google Cloud Speech-to-Text API, and returns the transcribed text, which is then displayed on the page using React. 
